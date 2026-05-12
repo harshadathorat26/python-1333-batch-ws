@@ -1,4 +1,4 @@
-#Task : Design a asystem to check who is older among jay,viru and gabbar
+#Task : Design a system to check who is older among jay,viru and gabbar
 jay = int(input("Enter Jay's age:"))
 viru = int(input("Enter viru's age:"))
 gabbar = int(input("Enter Gabbar's age:"))
