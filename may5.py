@@ -1,5 +1,11 @@
-#Create a small project in vscode which accepts MRP and discount of a product and display selling 
-# price on console.
+# expr = "20+45+7/5"
+
+# res = eval(expr)
+# print(res)
+
+# v1 = eval(input("Enter a number:"))
+# print("you entered:" , v1)
+# print("type of v1:", type(v1))
 
 MRP = eval(input("Enter MRP of Product:"))
 Discount = eval(input("Enter discount % on the product:"))
