@@ -25,7 +25,7 @@ print(s[3:0:-3])
 print(s[3:6:+3])
 print(s[3:7:+4])
 print(s[3:0:-4])
-print(s[3:0:-5])
+print(s[2:-2:-1])
 
 # s2 = "Harshada Thorat"
 # print(s2[0:8])
