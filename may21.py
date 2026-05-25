@@ -33,7 +33,7 @@
 #         list2.append(i)
 # print(list2)
 
-#Task 5: to check if any name has last letter as a without using inbuilt functions
+#Task 5: to check if any name has last letter as 'a' without using inbuilt functions
 # list3 = []
 # for i in students_name:
 #     if i[-1] == "a":
