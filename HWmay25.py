@@ -18,6 +18,12 @@ for i in range(len(salary)):
 avg = total / len(salary)
 print(f"Avg salary of employees is {avg}")
 
+salary.sort()
+print(salary)
+second_max = salary[-2]
+second_min = salary[+1]
+print(f"second max is:{second_max}")
+print(f"second min is:{second_min}")
 
        
 
